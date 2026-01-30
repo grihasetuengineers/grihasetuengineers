@@ -1,16 +1,22 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Grihasetu Engineers Pvt Ltd</title>
+</head>
+<body style="font-family:Arial; text-align:center; padding:40px;">
 
-<!--
-**grihasetuengineers/grihasetuengineers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Grihasetu Engineers Pvt Ltd</h1>
+  <h3>House Construction & Civil Engineering Services</h3>
 
-Here are some ideas to get you started:
+  <p>
+    We provide quality residential construction, planning,
+    estimation and civil engineering solutions.
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    📞 <b>Contact:</b> 8002472298 <br>
+    📍 <b>Working Area:</b> Bihar & UP
+  </p>
+
+</body>
+</html>
